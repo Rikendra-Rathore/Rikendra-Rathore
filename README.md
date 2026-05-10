@@ -1,5 +1,5 @@
 # 💫 About Me:
-final year student<br>learning data science and Machine learning<br>
+Final Year CSE Student<br>Learning Data Science and Machine Learning<br>
 
 
 # 💻 Tech Stack:
